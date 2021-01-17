@@ -151,16 +151,4 @@
     transform: scale(1);
     transition: transform 200ms ease-in-out;
   }
-  .check-mark {
-    position: absolute;
-    bottom: 5px;
-    left: 2px;
-    opacity: 0;
-    transition: opacity 150ms ease-in-out;
-    z-index: 1;
-  }
-  
-  .test-css__autocomplete {
-    color: blue;
-  }
-  
+ 
