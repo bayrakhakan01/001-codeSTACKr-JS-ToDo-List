@@ -5,6 +5,7 @@ const addTaskBtn = document.querySelector(".add-task-btn");
 const removeCompleteBtn = document.querySelector(".remove-complete-btn");
 const taskList = document.querySelector(".task-list");
 const taskTemplate = document.querySelector("#task-template");
+
 let id = 1;
 
 newTask.addEventListener("keyup", (e) => {
